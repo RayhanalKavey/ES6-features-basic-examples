@@ -1,0 +1,23 @@
+#### Examples of ES6 classes
+
+##### Topic covered
+
+1. var let const
+2. scopes in javascript
+3. templates string
+4. ternary operator
+5. Array Spreading
+6. Object Spreading
+7. Object Accessing
+8. Optional Chaining of Object
+9. Arrow function
+10. Function with default parameters
+11. Arrow Foreach,Map,Filter,Find Function
+
+##### Problem Solving
+
+1. Find SCIC student using Filter
+2. Find Stable Jamai using Filter Method
+3. API Array Access
+4. Convert Array Of Objects To Single Object using map or foreach
+   Array Reduce Method
